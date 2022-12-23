@@ -1,6 +1,6 @@
 # 借助 GitHub Actions 的 OpenWrt 在线自动编译.
 
-## Redmi AX6000闭源固件源码来源
+## Redmi AX6000 闭源驱动固件 源码来源
 - padavanonly-[padavanonly/immortalwrtARM](https://github.com/padavanonly/immortalwrtARM/tree/mt7986).
 ```bash
 git clone -b mt7986 --single-branch https://github.com/padavanonly/immortalwrtARM
@@ -10,7 +10,7 @@ git clone -b mt7986 --single-branch https://github.com/padavanonly/immortalwrtAR
 git clone -b openwrt-21.02 --single-branch https://github.com/hanwckf/immortalwrt-mt798x
 ```
 
-## Redmi AX6000开源固件源码来源
+## Redmi AX6000 开源驱动固件 源码来源
 - 官方-[openwrt/openwrt](https://github.com/openwrt/openwrt).
 ```bash
 git clone https://github.com/openwrt/openwrt
